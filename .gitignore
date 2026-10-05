@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+outputs/
+.DS_Store
+*.mp4
+# Keep the included synthetic sample_video.avi; ignore your private recordings separately.

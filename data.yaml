@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 2
+names: ['Thumbs-down', 'Thumbs-up']
+
+roboflow:
+  workspace: mendeteksi-thumbs-up-thumbs-down
+  project: thumbs-up-thumbs-down-zobmd
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/mendeteksi-thumbs-up-thumbs-down/thumbs-up-thumbs-down-zobmd/dataset/3
